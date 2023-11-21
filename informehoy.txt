@@ -1,1 +1,2 @@
 el dia de hoy los temas tratados son : git es un sistema de control de versiones
+ramas como ignorar archivos para no ser comprometidos en el area de trabajo , cambiar ramas y volver al principal
